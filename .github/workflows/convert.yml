@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 1 * * *" # every day
   workflow_dispatch:
+  push:
+    tags:
+      - "v*.*.*"
 
 jobs:
   convert_conf_files:
