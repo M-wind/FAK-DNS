@@ -11,7 +11,7 @@ jobs:
     
     steps:
     - name: Checkout code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v3
 
     - name: Set up Python
       uses: actions/setup-python@v2.2.2
@@ -45,3 +45,13 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: master
    
+    - name: Release geosite
+      if: steps.build.outputs.skip != 'true'
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: ${{ steps.build.outputs.tag }}
+        files: |
+          FAK-DNS.txt
+          accelerated-domains.china.conf.txt
+          apple.china.conf.txt
+          google.china.conf.txt
