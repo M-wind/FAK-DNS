@@ -1635,7 +1635,6 @@
 [/148com.com/]https://223.5.5.5/dns-query
 [/148la.com/]https://223.5.5.5/dns-query
 [/14944.net/]https://223.5.5.5/dns-query
-[/1495c8.com/]https://223.5.5.5/dns-query
 [/14hj.com/]https://223.5.5.5/dns-query
 [/14play.net/]https://223.5.5.5/dns-query
 [/14xd.com/]https://223.5.5.5/dns-query
@@ -6657,7 +6656,6 @@
 [/62669.com/]https://223.5.5.5/dns-query
 [/626x.com/]https://223.5.5.5/dns-query
 [/628.com/]https://223.5.5.5/dns-query
-[/628536nyv.com/]https://223.5.5.5/dns-query
 [/62923.vip/]https://223.5.5.5/dns-query
 [/629973.com/]https://223.5.5.5/dns-query
 [/62dns.com/]https://223.5.5.5/dns-query
@@ -11826,7 +11824,6 @@
 [/antvr.com/]https://223.5.5.5/dns-query
 [/antwork.link/]https://223.5.5.5/dns-query
 [/antzk.com/]https://223.5.5.5/dns-query
-[/anviettek.com/]https://223.5.5.5/dns-query
 [/anw.red/]https://223.5.5.5/dns-query
 [/anweilan.com/]https://223.5.5.5/dns-query
 [/anweishi.com/]https://223.5.5.5/dns-query
@@ -53548,6 +53545,7 @@
 [/jamalube.net/]https://223.5.5.5/dns-query
 [/jamcz.com/]https://223.5.5.5/dns-query
 [/jamidol.com/]https://223.5.5.5/dns-query
+[/jamms.org/]https://223.5.5.5/dns-query
 [/jammyfm.com/]https://223.5.5.5/dns-query
 [/jampotgames.com/]https://223.5.5.5/dns-query
 [/janbao.net/]https://223.5.5.5/dns-query
@@ -56754,7 +56752,6 @@
 [/js96008.com/]https://223.5.5.5/dns-query
 [/js96777.com/]https://223.5.5.5/dns-query
 [/jsadkg.com/]https://223.5.5.5/dns-query
-[/jsadt.com/]https://223.5.5.5/dns-query
 [/jsaeit.com/]https://223.5.5.5/dns-query
 [/jsaes.com/]https://223.5.5.5/dns-query
 [/jsafc.net/]https://223.5.5.5/dns-query
