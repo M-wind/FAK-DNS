@@ -7711,6 +7711,7 @@ https://8.8.8.8/dns-query
 [/88106.com/]https://223.5.5.5/dns-query
 [/88116008.com/]https://223.5.5.5/dns-query
 [/8811777.com/]https://223.5.5.5/dns-query
+[/881812c.com/]https://223.5.5.5/dns-query
 [/8821.com/]https://223.5.5.5/dns-query
 [/8825.com/]https://223.5.5.5/dns-query
 [/88303887.com/]https://223.5.5.5/dns-query
@@ -8462,6 +8463,7 @@ https://8.8.8.8/dns-query
 [/962360.com/]https://223.5.5.5/dns-query
 [/962518.com/]https://223.5.5.5/dns-query
 [/962600.com/]https://223.5.5.5/dns-query
+[/96262.com/]https://223.5.5.5/dns-query
 [/96335.com/]https://223.5.5.5/dns-query
 [/96355.com/]https://223.5.5.5/dns-query
 [/96369.net/]https://223.5.5.5/dns-query
@@ -35296,6 +35298,7 @@ https://8.8.8.8/dns-query
 [/fuca-china.com/]https://223.5.5.5/dns-query
 [/fucantec.com/]https://223.5.5.5/dns-query
 [/fuchaipower.com/]https://223.5.5.5/dns-query
+[/fuchaoqun.com/]https://223.5.5.5/dns-query
 [/fuchen33.com/]https://223.5.5.5/dns-query
 [/fuchengshicai.com/]https://223.5.5.5/dns-query
 [/fuchuangyu.com/]https://223.5.5.5/dns-query
@@ -45654,6 +45657,7 @@ https://8.8.8.8/dns-query
 [/hlbe365.com/]https://223.5.5.5/dns-query
 [/hlbeixiu.com/]https://223.5.5.5/dns-query
 [/hlbeixiu.net/]https://223.5.5.5/dns-query
+[/hlbf.net/]https://223.5.5.5/dns-query
 [/hlblz.com/]https://223.5.5.5/dns-query
 [/hlbn.cc/]https://223.5.5.5/dns-query
 [/hlbryy.com/]https://223.5.5.5/dns-query
@@ -66231,6 +66235,7 @@ https://8.8.8.8/dns-query
 [/miit-kjcg.com/]https://223.5.5.5/dns-query
 [/mij.cc/]https://223.5.5.5/dns-query
 [/mijewelries.com/]https://223.5.5.5/dns-query
+[/miji8.com/]https://223.5.5.5/dns-query
 [/mijia.tech/]https://223.5.5.5/dns-query
 [/mijian360.com/]https://223.5.5.5/dns-query
 [/mijiannet.com/]https://223.5.5.5/dns-query
@@ -71020,6 +71025,7 @@ https://8.8.8.8/dns-query
 [/nuomili.com/]https://223.5.5.5/dns-query
 [/nuomiphp.com/]https://223.5.5.5/dns-query
 [/nuomisi.com/]https://223.5.5.5/dns-query
+[/nuona.com/]https://223.5.5.5/dns-query
 [/nuonuo.com/]https://223.5.5.5/dns-query
 [/nuoshell.com/]https://223.5.5.5/dns-query
 [/nuoshou2023.com/]https://223.5.5.5/dns-query
@@ -81656,6 +81662,7 @@ https://8.8.8.8/dns-query
 [/shanhs.com/]https://223.5.5.5/dns-query
 [/shanhu188.com/]https://223.5.5.5/dns-query
 [/shanhu99.com/]https://223.5.5.5/dns-query
+[/shanhuijiangtang.com/]https://223.5.5.5/dns-query
 [/shanhuu.com/]https://223.5.5.5/dns-query
 [/shanjianzhan.com/]https://223.5.5.5/dns-query
 [/shanjinqh.com/]https://223.5.5.5/dns-query
@@ -85806,6 +85813,7 @@ https://8.8.8.8/dns-query
 [/starcharge.com/]https://223.5.5.5/dns-query
 [/stardata360.com/]https://223.5.5.5/dns-query
 [/starde.net/]https://223.5.5.5/dns-query
+[/stardict.net/]https://223.5.5.5/dns-query
 [/stardict.org/]https://223.5.5.5/dns-query
 [/stardoctor.com/]https://223.5.5.5/dns-query
 [/stards.com/]https://223.5.5.5/dns-query
@@ -95998,6 +96006,7 @@ https://8.8.8.8/dns-query
 [/wengbi.com/]https://223.5.5.5/dns-query
 [/wengegroup.com/]https://223.5.5.5/dns-query
 [/wengem.com/]https://223.5.5.5/dns-query
+[/wengkui.com/]https://223.5.5.5/dns-query
 [/wengmeiling.com/]https://223.5.5.5/dns-query
 [/wenguang.com/]https://223.5.5.5/dns-query
 [/wenguangta.com/]https://223.5.5.5/dns-query
