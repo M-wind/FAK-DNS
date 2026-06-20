@@ -13890,6 +13890,7 @@
 [/azuiblc.com/]https://223.5.5.5/dns-query
 [/azure-wave.com/]https://223.5.5.5/dns-query
 [/azure.cc/]https://223.5.5.5/dns-query
+[/azureflame.cloud/]https://223.5.5.5/dns-query
 [/azureflying.com/]https://223.5.5.5/dns-query
 [/azuremigrate.download.prss.microsoft.com/]https://223.5.5.5/dns-query
 [/azuremigratetest.download.prss.microsoft.com/]https://223.5.5.5/dns-query
@@ -16478,6 +16479,7 @@
 [/bjartmuseum.com/]https://223.5.5.5/dns-query
 [/bjatv.com/]https://223.5.5.5/dns-query
 [/bjbaidianfeng.com/]https://223.5.5.5/dns-query
+[/bjbaifan.com/]https://223.5.5.5/dns-query
 [/bjbalb.com/]https://223.5.5.5/dns-query
 [/bjbaodao.net/]https://223.5.5.5/dns-query
 [/bjbb.com/]https://223.5.5.5/dns-query
@@ -18915,6 +18917,7 @@
 [/cangfengzhe.com/]https://223.5.5.5/dns-query
 [/canghaiip.com/]https://223.5.5.5/dns-query
 [/canghaimachine.com/]https://223.5.5.5/dns-query
+[/cangjggame.com/]https://223.5.5.5/dns-query
 [/canglanghospital.com/]https://223.5.5.5/dns-query
 [/cangmang.xyz/]https://223.5.5.5/dns-query
 [/cangoonline.com/]https://223.5.5.5/dns-query
@@ -20535,6 +20538,7 @@
 [/chachengji.com/]https://223.5.5.5/dns-query
 [/chacihai.com/]https://223.5.5.5/dns-query
 [/chacuo.net/]https://223.5.5.5/dns-query
+[/chadaodao.com/]https://223.5.5.5/dns-query
 [/chadianhua.net/]https://223.5.5.5/dns-query
 [/chadoc.com/]https://223.5.5.5/dns-query
 [/chaej.com/]https://223.5.5.5/dns-query
@@ -34447,6 +34451,7 @@
 [/feiersmart.com/]https://223.5.5.5/dns-query
 [/feifandesign.com/]https://223.5.5.5/dns-query
 [/feifanindustry.com/]https://223.5.5.5/dns-query
+[/feifanmi.com/]https://223.5.5.5/dns-query
 [/feifantxt.com/]https://223.5.5.5/dns-query
 [/feifantxt.net/]https://223.5.5.5/dns-query
 [/feifdx.com/]https://223.5.5.5/dns-query
@@ -75115,6 +75120,7 @@
 [/qingnianlvxing.com/]https://223.5.5.5/dns-query
 [/qingniantuzhai.com/]https://223.5.5.5/dns-query
 [/qingnianwang.com/]https://223.5.5.5/dns-query
+[/qingning88.com/]https://223.5.5.5/dns-query
 [/qingpanduola.com/]https://223.5.5.5/dns-query
 [/qingpin.vip/]https://223.5.5.5/dns-query
 [/qingping.co/]https://223.5.5.5/dns-query
@@ -92117,6 +92123,7 @@
 [/uniow.com/]https://223.5.5.5/dns-query
 [/unipack-tech.com/]https://223.5.5.5/dns-query
 [/uniproud.com/]https://223.5.5.5/dns-query
+[/unisapps.com/]https://223.5.5.5/dns-query
 [/uniscope.com/]https://223.5.5.5/dns-query
 [/unisdigital.com/]https://223.5.5.5/dns-query
 [/unisedu.com/]https://223.5.5.5/dns-query
