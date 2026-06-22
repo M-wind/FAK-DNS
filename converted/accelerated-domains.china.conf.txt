@@ -13900,6 +13900,7 @@
 [/b-k-automation.com/]https://223.5.5.5/dns-query
 [/b-raymedia.com/]https://223.5.5.5/dns-query
 [/b.biz/]https://223.5.5.5/dns-query
+[/b.c2r.ts.cdn.office.net/]https://223.5.5.5/dns-query
 [/b01.net/]https://223.5.5.5/dns-query
 [/b02f0d7f3745ba7c.com/]https://223.5.5.5/dns-query
 [/b041e427810281.beer/]https://223.5.5.5/dns-query
@@ -33657,6 +33658,7 @@
 [/f-insight.com/]https://223.5.5.5/dns-query
 [/f-stack.org/]https://223.5.5.5/dns-query
 [/f.biz/]https://223.5.5.5/dns-query
+[/f.c2r.ts.cdn.office.net/]https://223.5.5.5/dns-query
 [/f.cx/]https://223.5.5.5/dns-query
 [/f008.com/]https://223.5.5.5/dns-query
 [/f015dfc4510292.beer/]https://223.5.5.5/dns-query
@@ -81098,6 +81100,7 @@
 [/sheketiandi.com/]https://223.5.5.5/dns-query
 [/shekou.com/]https://223.5.5.5/dns-query
 [/shelive.net/]https://223.5.5.5/dns-query
+[/shell.cdn.office.net/]https://223.5.5.5/dns-query
 [/shellpub.com/]https://223.5.5.5/dns-query
 [/shellsec.com/]https://223.5.5.5/dns-query
 [/shelter-china.com/]https://223.5.5.5/dns-query
@@ -84918,6 +84921,7 @@
 [/staticfile.org/]https://223.5.5.5/dns-query
 [/statickksmg.com/]https://223.5.5.5/dns-query
 [/statics.cc/]https://223.5.5.5/dns-query
+[/statics.teams.cdn.office.net/]https://223.5.5.5/dns-query
 [/staticsdd.com/]https://223.5.5.5/dns-query
 [/staticsoe.com/]https://223.5.5.5/dns-query
 [/staticsoem.com/]https://223.5.5.5/dns-query
@@ -85631,6 +85635,7 @@
 [/surely.cool/]https://223.5.5.5/dns-query
 [/surerp.com/]https://223.5.5.5/dns-query
 [/surface.download.prss.microsoft.com/]https://223.5.5.5/dns-query
+[/surface.downloads.prss.microsoft.com/]https://223.5.5.5/dns-query
 [/surfacetreatmentgroup.com/]https://223.5.5.5/dns-query
 [/surfacetreatmenttechnology.com/]https://223.5.5.5/dns-query
 [/surfcg.com/]https://223.5.5.5/dns-query
